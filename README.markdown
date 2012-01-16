@@ -7,4 +7,4 @@ Directory `Basics` contains a collection of minimalistic C++  programs showing C
 
 ## References
 
-* [http://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list The Definitive C++ Book Guide and List (stackoverflow.com)]
+* [The Definitive C++ Book Guide and List (stackoverflow.com)](http://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list)
