@@ -1,6 +1,10 @@
 C and C++ code snippets.
 
-* SimpleExample
+## Basics
 
-Simple example programs showing C and C++ language syntax and features.
+Directory `Basics` contains a collection of minimalistic C++  programs showing C and C++ language syntax and features.
 
+
+## References
+
+* [http://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list The Definitive C++ Book Guide and List (stackoverflow.com)]
